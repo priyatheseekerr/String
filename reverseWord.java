@@ -1,3 +1,4 @@
+//Reverse words in a string
 import java.util.Scanner;
 
 public class reverseWord {
@@ -14,5 +15,6 @@ public class reverseWord {
             str[i]=wrd.toString();
          }
          System.out.println(String.join(" ", str));
+         sc.close();
     }
 }
