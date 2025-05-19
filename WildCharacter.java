@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//	Check if two strings match where one string contains wildcard characters
 public class WildCharacter {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
