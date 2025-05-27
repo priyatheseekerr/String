@@ -1,6 +1,6 @@
 import java.util.HashMap;
 import java.util.Scanner;
-//	Capitalize Every Other Word
+//	Convert a String to a Dictionary of Character Frequencies
 public class DictionaryCharacterCount {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
